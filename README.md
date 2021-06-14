@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tpribeiro123
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Thiago Pirola
+- 👀 I’m researcher!
 
 <!---
 tpribeiro123/tpribeiro123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
